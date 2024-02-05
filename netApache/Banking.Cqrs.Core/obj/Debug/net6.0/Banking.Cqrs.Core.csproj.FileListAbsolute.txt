@@ -1,0 +1,4 @@
+C:\Users\DELL\Desktop\Net core curso\netApache\Banking.Cqrs.Core\obj\Debug\net6.0\Banking.Cqrs.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Net core curso\netApache\Banking.Cqrs.Core\obj\Debug\net6.0\Banking.Cqrs.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Net core curso\netApache\Banking.Cqrs.Core\obj\Debug\net6.0\Banking.Cqrs.Core.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Net core curso\netApache\Banking.Cqrs.Core\obj\Debug\net6.0\Banking.Cqrs.Core.csproj.CoreCompileInputs.cache

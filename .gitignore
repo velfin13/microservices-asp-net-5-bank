@@ -1,0 +1,5 @@
+kafta/zookeeper_data/
+kafta/mysql_data/
+kafta/mongodb_data/
+kafta/kafka_data/
+
