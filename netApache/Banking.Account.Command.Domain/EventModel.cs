@@ -19,6 +19,6 @@ namespace Banking.Account.Command.Domain
         public string EventType { get; set; } = string.Empty;
 
         [BsonElement("eventData")]
-        public BaseEvent EventData { get; set; } 
+        public BaseEvent EventData { get; set; }
     }
 }
