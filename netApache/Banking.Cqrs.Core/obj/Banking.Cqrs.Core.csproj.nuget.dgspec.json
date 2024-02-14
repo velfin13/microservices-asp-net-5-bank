@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj": {
+    "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj",
         "projectName": "Banking.Cqrs.Core",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Cqrs.Core\\Banking.Cqrs.Core.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Cqrs.Core\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Cqrs.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

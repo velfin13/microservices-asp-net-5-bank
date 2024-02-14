@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VKCBkjkzdKIoJV4MQROuHKa+uDpeXzPtBRnqldReSN0XR4nxRjxSO8Mke76ViBOpNDBbERNIIDiNNnmtW9T7g==",
+  "dgSpecHash": "XnzoP7T9nDRH0AV4kR6alNFDZOQy0srjpteIjDK8q0vDt7N0pWUeJjY2xrBCSHpdloyXmcHoKKiQPvL8oIYJVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Account.Command.Domain\\Banking.Account.Command.Domain.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Account.Command.Domain\\Banking.Account.Command.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

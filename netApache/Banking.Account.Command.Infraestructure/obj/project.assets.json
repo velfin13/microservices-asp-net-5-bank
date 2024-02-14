@@ -1348,11 +1348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Account.Command.Infraestructure\\Banking.Account.Command.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Account.Command.Infraestructure\\Banking.Account.Command.Infraestructure.csproj",
       "projectName": "Banking.Account.Command.Infraestructure",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Account.Command.Infraestructure\\Banking.Account.Command.Infraestructure.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Account.Command.Infraestructure\\Banking.Account.Command.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Account.Command.Infraestructure\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Account.Command.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1369,8 +1369,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Account.Command.Application\\Banking.Account.Command.Application.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\Net core curso\\netApache\\Banking.Account.Command.Application\\Banking.Account.Command.Application.csproj"
+            "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Account.Command.Application\\Banking.Account.Command.Application.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\microservices-asp-net-5-bank\\netApache\\Banking.Account.Command.Application\\Banking.Account.Command.Application.csproj"
             }
           }
         }

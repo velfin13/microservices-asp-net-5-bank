@@ -1,6 +1,4 @@
-﻿
-
-using MediatR;
+﻿using MediatR;
 
 namespace Banking.Account.Command.Application.Features.BankAccount.Command.CloseAccount
 {
